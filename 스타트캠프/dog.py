@@ -1,0 +1,2 @@
+name='tell'
+print(name)
