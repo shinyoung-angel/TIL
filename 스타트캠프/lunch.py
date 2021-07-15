@@ -5,3 +5,6 @@ print(menu)
 
 my_lunch=random.choice(menu)
 print(my_lunch)
+
+a='doctor'
+print(a)
