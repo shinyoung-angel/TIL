@@ -27,12 +27,8 @@ coin = {
 # k=coin['BTC']
 # a(k)
 
-# a=coin['BTC']
-# b=a.items()
-# print(b)
-
-# a=coin['BTC']['max_price']
-# print(a)
+a=coin['BTC']['max_price']
+print(a)
 
 
 #2. btc 시가와 xrop시가 더한 결과 출력

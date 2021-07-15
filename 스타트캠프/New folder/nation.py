@@ -1,8 +1,8 @@
 import requests
 
 
-name='Bob'
-url=f'https://nationalize.io/?name={name}'
+name='Grace'
+url=f'https://api.nationalize.io/?name={name}'
 response=requests.get(url).json()
 
 print(response)
