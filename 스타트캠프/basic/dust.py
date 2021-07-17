@@ -8,3 +8,6 @@ elif dust>500:
     print('normal')
 else: 
     print('good')
+
+a='dfdfafdf'
+print(a)
