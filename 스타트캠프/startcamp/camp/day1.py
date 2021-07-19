@@ -7,3 +7,6 @@ data=BeautifulSoup(response, 'html.parser')
 summary=data.select_one('#main-chart > div.stock-nav > div.stock-nav-stock-info.shortened-info > div > div.name > h2')
 result=summary.text
 print(f'{result}이거다 이놈앙')
+
+a='dfadf'
+print(a)
